@@ -1,0 +1,10 @@
+{
+  "liveServer.settings.port": 5502,
+  "github.copilot.chat.localeOverride": "en",
+  "github.copilot.editor.enableCodeActions": false,
+  "github.copilot.chat.fixTestFailure.enabled": false,
+  "github.copilot.chat.reviewSelection.enabled": false,
+  "github.copilot.chat.startDebugging.enabled": false,
+  "github.copilot.chat.setupTests.enabled": false,
+  "github.copilot.chat.codeGeneration.useInstructionFiles": false
+}
